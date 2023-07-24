@@ -1,0 +1,20 @@
+.logoImg{
+    height: 30px;
+    margin-right: 5px;
+}
+.text-h{
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.listImg{
+    width: 40px;
+}
+#testimonials{
+    text-align: center;
+}
+.testimonial-image{
+    width: 80%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
